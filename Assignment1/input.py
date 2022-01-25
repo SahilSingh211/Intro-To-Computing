@@ -1,4 +1,5 @@
 #Q.1#
+print()
 number1=float(input("enter first number: "))
 #It will represent the first number
 
