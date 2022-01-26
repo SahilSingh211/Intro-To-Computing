@@ -66,7 +66,7 @@ Department_Name=(input("enter your department Name : "))                        
 
 CGPA=float(input("Enter your CGPA : "))                                                                                         #CGPA
 
-print("Hey {0} Here!\nMy SID is {1}\nI am from {2} department and my CGPA is {3}.".format(Name, SID, Department_Name, CGPA))
+print("Hey, {0} Here!\nMy SID is {1}\nI am from {2} department and my CGPA is {3}.".format(Name, SID, Department_Name, CGPA))
 #final Answer
 
 print()
