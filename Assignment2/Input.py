@@ -58,15 +58,15 @@ print("    Program-2\nString Formatting")
 print()
 
 #take input from the User.
-Name=input("Enter Your Name : ")                                                                                    #Name
+Name=input("Enter Your Name : ")                                                                                                #Name
 
-SID=(input("Enter Your SID : "))                                                                                    #SID
+SID=(input("Enter Your SID : "))                                                                                                #SID
 
-Department_Name=(input("enter your department Name : "))                                                            #Department Name
+Department_Name=(input("enter your department Name : "))                                                                        #Department Name
 
-CGPA=float(input("Enter your CGPA : "))                                                                             #CGPA
+CGPA=float(input("Enter your CGPA : "))                                                                                         #CGPA
 
-print("Hey, {0} here!\nMy SID is: {1}\nI am from {2} and my CGPA is {3}.".format(Name,SID,Department_Name,CGPA) )
+print("Hey {0} Here!\nMy SID is {1}\nI am from {2} department and my CGPA is {3}.".format(Name, SID, Department_Name, CGPA))
 #final Answer
 
 print()
