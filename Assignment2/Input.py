@@ -45,7 +45,7 @@ print()
 
 #For part f.)
 #removing all whitespaces
-print("The string is :",str.replace(" ",""))
+print("The string is :\"{}\"".format(string.replace(" ", "")))
 
 print()
 print()
